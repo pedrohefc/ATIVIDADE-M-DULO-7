@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 32px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+.conteiner{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+form{
+    
+}
+
+input, button{
+    display: block;
+    margin-top: 8px;
+    padding: 8px;
+    width: 100%;    
+}
+
+.formulario{
+    margin-top: 50px;
+}
+
+h2{
+    text-align: center;
+}
